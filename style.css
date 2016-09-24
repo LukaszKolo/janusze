@@ -1,0 +1,66 @@
+.container {
+	max-width: 960px;
+	background-color: white;
+	margin: 0 auto;
+	border: 1px solid salmon;
+	overflow: hidden;
+	padding: 20px;
+}
+
+.site-title {
+	background-color: blue;
+	width: 220px;
+	color: white;
+	font: bold 38px Impact;
+	float: left;
+}
+
+.menu {
+	list-style-type: none;
+	float: right;
+	margin-top: 30px;
+	font: 20px Calibri;
+	margin-right: 20px;
+}
+
+.menu li {
+	float: left;
+}
+
+.menu li a {
+	text-decoration: none;
+	margin-left: 10px;
+	color: black;
+}
+
+.menu li a:hover {
+	border-bottom: 1px solid blue; 
+}
+
+.clear {
+	clear: both;
+}
+
+.kitten {
+	float: left;
+	margin-right: 10px;
+}
+
+.text {
+	font: 20px Calibri;
+	line-height: 2;
+}
+
+h2 {
+	color: red;
+}
+
+.pobrane {
+	margin: 30px auto;
+	display: block;
+
+}
+
+h3 {
+	text-align: center;
+}

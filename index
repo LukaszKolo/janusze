@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Janusze Frontendu</title>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+
+<body>
+	
+	<div class="container">
+		<h1 class="site-title">Kocie sprawy</h1>
+	
+
+		<nav class="site-menu">
+			<ul class="menu">
+				<li><a href="#">Iwo</a></li>
+				<li><a href="#">Nagrywa</a></li>
+				<li><a href="#">Nowe</a></li>
+				<li><a href="#">Przeboje</a></li>		
+			</ul>
+		</nav>
+
+
+		<article>
+			<div class="clear">
+				<hr>
+			</div>
+			
+			<img src="kitten.jpg" alt="kitten" class="kitten">
+			
+				<h2>Jak karmić koty?</h2>
+				<p class="text">
+ 				<strong>Moje koty (dwa)</strong> są głównie na suchej karmie i takiej jestem <u>zwolennikiem</u>, więc na pewno nie polecę Ci żadnych puszek ani saszetek. A z <i>suchych to głównie</i> jedzą Purinę One. Oprócz tego dostają jeszcze przemrożone wołowe mięsko i czasem kurze serca (rzadko). Jak chcesz poczytać o purinie to wejdź sobie na ich stronę (<a href="http://www.purina-one.pl">www.purina-one.pl</a>), oprócz info na temat karmy znajdziesz tam też sporo wiadomości o zdrowiu kota, co może Ci się przydać jako początkującej kociej mamie. Purina ma też wiele fajnych programów i konkursów, teraz jest wielkie badanie stanu zdrowia kotów. Pozdrawiam i powodzenia z futrzakiem.
+				</p>
+
+		</article>
+
+		<article>
+		<hr>
+			<img src="pobrane.jpg" alt="pobrane" class="pobrane">
+
+			<h3>Tekst wyśrodkowany</h3>
+			
+			<ul>
+				<li>Jedzenie (np. Myszkass)</li>
+				<li>Jedzenie (np. Myszkass)</li>
+				<li>Jedzenie (np. Myszkass)</li>
+				<li>Jedzenie (np. Myszkass)</li>
+				
+			</ul>
+
+		</article>
+
+
+
+	</div><!-- End Container -->
+
+
+
+
+</body>	
+</html>
